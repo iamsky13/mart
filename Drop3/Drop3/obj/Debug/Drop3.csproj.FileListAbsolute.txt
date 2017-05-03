@@ -1,0 +1,120 @@
+d:\Projects\Drop3\Drop3\bin\roslyn\csc.exe
+d:\Projects\Drop3\Drop3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Projects\Drop3\Drop3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Projects\Drop3\Drop3\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Projects\Drop3\Drop3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Projects\Drop3\Drop3\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Projects\Drop3\Drop3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Projects\Drop3\Drop3\bin\roslyn\System.Collections.Immutable.dll
+d:\Projects\Drop3\Drop3\bin\roslyn\System.Reflection.Metadata.dll
+d:\Projects\Drop3\Drop3\bin\roslyn\vbc.exe
+d:\Projects\Drop3\Drop3\bin\roslyn\VBCSCompiler.exe
+d:\Projects\Drop3\Drop3\bin\roslyn\VBCSCompiler.exe.config
+d:\Projects\Drop3\Drop3\bin\Drop3.dll.config
+d:\Projects\Drop3\Drop3\bin\Drop3.dll
+d:\Projects\Drop3\Drop3\bin\Drop3.pdb
+d:\Projects\Drop3\Drop3\bin\Antlr3.Runtime.dll
+d:\Projects\Drop3\Drop3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Projects\Drop3\Drop3\bin\Microsoft.Web.Infrastructure.dll
+d:\Projects\Drop3\Drop3\bin\Newtonsoft.Json.dll
+d:\Projects\Drop3\Drop3\bin\System.Web.Helpers.dll
+d:\Projects\Drop3\Drop3\bin\System.Web.Mvc.dll
+d:\Projects\Drop3\Drop3\bin\System.Web.Optimization.dll
+d:\Projects\Drop3\Drop3\bin\System.Web.Razor.dll
+d:\Projects\Drop3\Drop3\bin\System.Web.WebPages.Deployment.dll
+d:\Projects\Drop3\Drop3\bin\System.Web.WebPages.dll
+d:\Projects\Drop3\Drop3\bin\System.Web.WebPages.Razor.dll
+d:\Projects\Drop3\Drop3\bin\WebGrease.dll
+d:\Projects\Drop3\Drop3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Projects\Drop3\Drop3\bin\System.Web.Helpers.xml
+d:\Projects\Drop3\Drop3\bin\System.Web.Mvc.xml
+d:\Projects\Drop3\Drop3\bin\System.Web.Optimization.xml
+d:\Projects\Drop3\Drop3\bin\System.Web.Razor.xml
+d:\Projects\Drop3\Drop3\bin\System.Web.WebPages.xml
+d:\Projects\Drop3\Drop3\bin\System.Web.WebPages.Deployment.xml
+d:\Projects\Drop3\Drop3\bin\System.Web.WebPages.Razor.xml
+d:\Projects\Drop3\Drop3\bin\Antlr3.Runtime.pdb
+d:\Projects\Drop3\Drop3\bin\Newtonsoft.Json.xml
+d:\Projects\Drop3\Drop3\obj\Debug\Drop3.csprojResolveAssemblyReference.cache
+d:\Projects\Drop3\Drop3\obj\Debug\Drop3.dll
+d:\Projects\Drop3\Drop3\obj\Debug\Drop3.pdb
+D:\ProjectsShow\Drop3\Drop3\bin\roslyn\csc.exe
+D:\ProjectsShow\Drop3\Drop3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProjectsShow\Drop3\Drop3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProjectsShow\Drop3\Drop3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProjectsShow\Drop3\Drop3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProjectsShow\Drop3\Drop3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProjectsShow\Drop3\Drop3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProjectsShow\Drop3\Drop3\bin\roslyn\System.Collections.Immutable.dll
+D:\ProjectsShow\Drop3\Drop3\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProjectsShow\Drop3\Drop3\bin\roslyn\vbc.exe
+D:\ProjectsShow\Drop3\Drop3\bin\roslyn\VBCSCompiler.exe
+D:\ProjectsShow\Drop3\Drop3\bin\roslyn\VBCSCompiler.exe.config
+D:\ProjectsShow\Drop3\Drop3\bin\Drop3.dll.config
+D:\ProjectsShow\Drop3\Drop3\bin\Drop3.dll
+D:\ProjectsShow\Drop3\Drop3\bin\Drop3.pdb
+D:\ProjectsShow\Drop3\Drop3\bin\Antlr3.Runtime.dll
+D:\ProjectsShow\Drop3\Drop3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProjectsShow\Drop3\Drop3\bin\Microsoft.Web.Infrastructure.dll
+D:\ProjectsShow\Drop3\Drop3\bin\Newtonsoft.Json.dll
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.Helpers.dll
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.Mvc.dll
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.Optimization.dll
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.Razor.dll
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.WebPages.Deployment.dll
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.WebPages.dll
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.WebPages.Razor.dll
+D:\ProjectsShow\Drop3\Drop3\bin\WebGrease.dll
+D:\ProjectsShow\Drop3\Drop3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.Helpers.xml
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.Mvc.xml
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.Optimization.xml
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.Razor.xml
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.WebPages.xml
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.WebPages.Deployment.xml
+D:\ProjectsShow\Drop3\Drop3\bin\System.Web.WebPages.Razor.xml
+D:\ProjectsShow\Drop3\Drop3\bin\Antlr3.Runtime.pdb
+D:\ProjectsShow\Drop3\Drop3\bin\Newtonsoft.Json.xml
+D:\ProjectsShow\Drop3\Drop3\obj\Debug\Drop3.csprojResolveAssemblyReference.cache
+D:\ProjectsShow\Drop3\Drop3\obj\Debug\Drop3.dll
+D:\ProjectsShow\Drop3\Drop3\obj\Debug\Drop3.pdb
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\roslyn\csc.exe
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\roslyn\vbc.exe
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\Drop3.dll.config
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\Drop3.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\Drop3.pdb
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\Antlr3.Runtime.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\Newtonsoft.Json.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.Helpers.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.Mvc.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.Optimization.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.Razor.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.WebPages.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\WebGrease.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.Helpers.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.Mvc.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.Optimization.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.Razor.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.WebPages.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\Antlr3.Runtime.pdb
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\bin\Newtonsoft.Json.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\obj\Debug\Drop3.csprojResolveAssemblyReference.cache
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\obj\Debug\Drop3.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Drop3\Drop3\obj\Debug\Drop3.pdb

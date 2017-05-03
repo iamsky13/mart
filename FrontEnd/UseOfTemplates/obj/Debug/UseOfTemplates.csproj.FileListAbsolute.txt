@@ -1,0 +1,80 @@
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\roslyn\csc.exe
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\roslyn\System.Collections.Immutable.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\roslyn\System.Reflection.Metadata.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\roslyn\vbc.exe
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\roslyn\VBCSCompiler.exe
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\roslyn\VBCSCompiler.exe.config
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\UseOfTemplates.dll.config
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\UseOfTemplates.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\UseOfTemplates.pdb
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\Antlr3.Runtime.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\Microsoft.Web.Infrastructure.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\Newtonsoft.Json.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.Helpers.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.Mvc.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.Optimization.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.Razor.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.WebPages.Deployment.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.WebPages.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.WebPages.Razor.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\WebGrease.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.Helpers.xml
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.Mvc.xml
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.Optimization.xml
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.Razor.xml
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.WebPages.xml
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.WebPages.Deployment.xml
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\System.Web.WebPages.Razor.xml
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\Antlr3.Runtime.pdb
+d:\Projects\UseOfTemplates\UseOfTemplates\bin\Newtonsoft.Json.xml
+d:\Projects\UseOfTemplates\UseOfTemplates\obj\Debug\UseOfTemplates.csprojResolveAssemblyReference.cache
+d:\Projects\UseOfTemplates\UseOfTemplates\obj\Debug\UseOfTemplates.dll
+d:\Projects\UseOfTemplates\UseOfTemplates\obj\Debug\UseOfTemplates.pdb
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\roslyn\csc.exe
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\roslyn\vbc.exe
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\UseOfTemplates.dll.config
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\UseOfTemplates.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\UseOfTemplates.pdb
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\Antlr3.Runtime.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\Newtonsoft.Json.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.Helpers.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.Mvc.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.Optimization.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.Razor.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.WebPages.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\WebGrease.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.Helpers.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.Mvc.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.Optimization.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.Razor.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.WebPages.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\Antlr3.Runtime.pdb
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\bin\Newtonsoft.Json.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\obj\Debug\UseOfTemplates.csprojResolveAssemblyReference.cache
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\obj\Debug\UseOfTemplates.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\FrontEnd\UseOfTemplates\obj\Debug\UseOfTemplates.pdb
